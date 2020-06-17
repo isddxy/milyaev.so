@@ -10,10 +10,6 @@ export class ReviewPageComponent implements OnInit {
 
   @Output() sidebarMenu: SidebarMenu[] = [
     {
-      name: 'Тест',
-      link: ''
-    },
-    {
       name: 'Описание',
       link: '/description',
       submenu: [

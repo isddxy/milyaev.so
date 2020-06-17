@@ -1,6 +1,6 @@
 <li>
   <a class="parent" routerLink="/review{{item.link}}" routerLinkActive="active">{{item.name}}</a>
-  <ul *ngIf="item.submenu" class="child">
+  <ul *ngIf="item.submenu" class="child" routerLinkActive="active">
     <app-sidebar-sub-item *ngFor="let n of item.submenu" [item]="n" [parentLink]="item.link"></app-sidebar-sub-item>
   </ul>
 </li>
