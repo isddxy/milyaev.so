@@ -1,9 +1,12 @@
-<ul>
-  <li><a routerLink="/" routerLinkActive="active">Home</a></li>
-  <li><a routerLink="/review" routerLinkActive="active">Go to review</a></li>
-</ul>
+<div class="wrapper">
+  <app-sidebar class="sidebar"></app-sidebar>
 
-
-<app-sidebar></app-sidebar>
-<router-outlet></router-outlet>
+  <div class="content">
+    <ul class="main-menu">
+      <li><a routerLink="/" routerLinkActive="active">Home</a></li>
+      <li><a routerLink="/review" routerLinkActive="active">Go to review</a></li>
+    </ul>
+    <router-outlet></router-outlet>
+  </div>
+</div>
 
