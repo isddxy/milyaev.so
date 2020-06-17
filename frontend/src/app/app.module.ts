@@ -19,7 +19,9 @@ import { DigitalDesignComponent } from './review-page/design/digital-design/digi
 import { ErrorPageComponent } from './error-page/error-page.component';
 import { MainLayoutComponent } from './shared/components/main-layout/main-layout.component';
 import { HomePageComponent } from './home-page/home-page.component';
-import { SidebarComponent } from './shared/components/main-layout/sidebar/sidebar.component';
+import { SidebarComponent } from './shared/components/sidebar/sidebar.component';
+import { SidebarItemComponent } from './shared/components/sidebar/sidebar-item/sidebar-item.component';
+import { SidebarSubItemComponent } from './shared/components/sidebar/sidebar-sub-item/sidebar-sub-item.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +42,9 @@ import { SidebarComponent } from './shared/components/main-layout/sidebar/sideba
     ErrorPageComponent,
     MainLayoutComponent,
     HomePageComponent,
-    SidebarComponent
+    SidebarComponent,
+    SidebarItemComponent,
+    SidebarSubItemComponent
   ],
   imports: [
     BrowserModule,
