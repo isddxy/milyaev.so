@@ -19,6 +19,7 @@ import { DigitalDesignComponent } from './review-page/design/digital-design/digi
 import { ErrorPageComponent } from './error-page/error-page.component';
 import { MainLayoutComponent } from './shared/components/main-layout/main-layout.component';
 import { HomePageComponent } from './home-page/home-page.component';
+import { SidebarComponent } from './shared/components/main-layout/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +39,8 @@ import { HomePageComponent } from './home-page/home-page.component';
     DigitalDesignComponent,
     ErrorPageComponent,
     MainLayoutComponent,
-    HomePageComponent
+    HomePageComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,

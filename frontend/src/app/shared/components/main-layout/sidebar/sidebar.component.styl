@@ -1,0 +1,11 @@
+.active
+  background red
+
+.parent
+  outline 1px solid red
+  .child
+    display none
+    outline 1px solid green
+  &.active
+    .child
+      display block
