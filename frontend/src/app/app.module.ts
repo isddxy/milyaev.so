@@ -17,6 +17,8 @@ import { PrototypeComponent } from './review-page/design/prototype/prototype.com
 import { ProductDesignComponent } from './review-page/design/product-design/product-design.component';
 import { DigitalDesignComponent } from './review-page/design/digital-design/digital-design.component';
 import { ErrorPageComponent } from './error-page/error-page.component';
+import { MainLayoutComponent } from './shared/components/main-layout/main-layout.component';
+import { HomePageComponent } from './home-page/home-page.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +36,9 @@ import { ErrorPageComponent } from './error-page/error-page.component';
     PrototypeComponent,
     ProductDesignComponent,
     DigitalDesignComponent,
-    ErrorPageComponent
+    ErrorPageComponent,
+    MainLayoutComponent,
+    HomePageComponent
   ],
   imports: [
     BrowserModule,
