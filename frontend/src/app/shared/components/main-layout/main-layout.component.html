@@ -1,6 +1,12 @@
 <ul class="main-menu">
-  <li><a routerLink="/" routerLinkActive="active">Home</a></li>
+  <li><a routerLink="/" routerLinkActive="active" i18n="Home | Home@@Home">Home</a></li>
+  <li><a routerLink="/goals" routerLinkActive="active" i18n="Goals | Goals@@Goals">Goals</a></li>
+  <li><a routerLink="/works" routerLinkActive="active" i18n="Works | Works@@Works">Works</a></li>
+  <li><a routerLink="/skills" routerLinkActive="active" i18n="Skills | Skills@@Skills">Skills</a></li>
+  <li><a routerLink="/inspirations" routerLinkActive="active" i18n="Inspirations | Inspirations@@Inspirations">Inspirations</a></li>
+  <li><a routerLink="/contact" routerLinkActive="active" i18n="Contact | Contact@@Contact">Contact</a></li>
   <li><a routerLink="/review" routerLinkActive="active">Go to review</a></li>
 </ul>
+<h1 i18n="Header Title | An introduction header for this sample@@constractionTitle">Hello i18n!</h1>
 <router-outlet></router-outlet>
 

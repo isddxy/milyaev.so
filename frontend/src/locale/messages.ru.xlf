@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="Home" datatype="html">
+        <source>Home</source>
+        <target>Главная</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description"> Home</note>
+        <note priority="1" from="meaning">Home </note>
+      </trans-unit>
+      <trans-unit id="Goals" datatype="html">
+        <source>Goals</source>
+        <target>Глобальные цели</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description"> Goals</note>
+        <note priority="1" from="meaning">Goals </note>
+      </trans-unit>
+      <trans-unit id="Works" datatype="html">
+        <source>Works</source>
+        <target>Работы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description"> Works</note>
+        <note priority="1" from="meaning">Works </note>
+      </trans-unit>
+      <trans-unit id="Skills" datatype="html">
+        <source>Skills</source>
+        <target>Умения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description"> Skills</note>
+        <note priority="1" from="meaning">Skills </note>
+      </trans-unit>
+      <trans-unit id="Inspirations" datatype="html">
+        <source>Inspirations</source>
+        <target>Воодушевление</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description"> Inspirations</note>
+        <note priority="1" from="meaning">Inspirations </note>
+      </trans-unit>
+      <trans-unit id="Contact" datatype="html">
+        <source>Contact</source>
+        <target>Контакты</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description"> Contact</note>
+        <note priority="1" from="meaning">Contact </note>
+      </trans-unit>
+      <trans-unit id="constractionTitle" datatype="html">
+        <source>Hello i18n!</source>
+        <target>Привет мир</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/components/main-layout/main-layout.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description"> An introduction header for this sample</note>
+        <note priority="1" from="meaning">Header Title </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

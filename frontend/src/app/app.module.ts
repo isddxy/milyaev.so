@@ -22,6 +22,11 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { SidebarComponent } from './shared/components/sidebar/sidebar.component';
 import { SidebarItemComponent } from './shared/components/sidebar/sidebar-item/sidebar-item.component';
 import { SidebarSubItemComponent } from './shared/components/sidebar/sidebar-sub-item/sidebar-sub-item.component';
+import { GoalsPageComponent } from './goals-page/goals-page.component';
+import { WorksPageComponent } from './works-page/works-page.component';
+import { SkillsPageComponent } from './skills-page/skills-page.component';
+import { InspirationsPageComponent } from './inspirations-page/inspirations-page.component';
+import { ContactPageComponent } from './contact-page/contact-page.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +49,12 @@ import { SidebarSubItemComponent } from './shared/components/sidebar/sidebar-sub
     HomePageComponent,
     SidebarComponent,
     SidebarItemComponent,
-    SidebarSubItemComponent
+    SidebarSubItemComponent,
+    GoalsPageComponent,
+    WorksPageComponent,
+    SkillsPageComponent,
+    InspirationsPageComponent,
+    ContactPageComponent
   ],
   imports: [
     BrowserModule,

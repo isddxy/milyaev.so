@@ -16,6 +16,11 @@ import {IdentityComponent} from "./review-page/design/identity/identity.componen
 import {PrototypeComponent} from "./review-page/design/prototype/prototype.component";
 import {ProductDesignComponent} from "./review-page/design/product-design/product-design.component";
 import {DigitalDesignComponent} from "./review-page/design/digital-design/digital-design.component";
+import {GoalsPageComponent} from "./goals-page/goals-page.component";
+import {WorksPageComponent} from "./works-page/works-page.component";
+import {InspirationsPageComponent} from "./inspirations-page/inspirations-page.component";
+import {SkillsPageComponent} from "./skills-page/skills-page.component";
+import {ContactPageComponent} from "./contact-page/contact-page.component";
 
 
 const routes: Routes = [
@@ -25,6 +30,11 @@ const routes: Routes = [
     children: [
       { path: '', redirectTo: '/', pathMatch: 'full' },
       { path: '', component: HomePageComponent },
+      { path: 'goals', component: GoalsPageComponent },
+      { path: 'works', component: WorksPageComponent },
+      { path: 'inspirations', component: InspirationsPageComponent },
+      { path: 'contact', component: ContactPageComponent },
+      { path: 'skills', component: SkillsPageComponent },
       {
         path: 'review',
         component: ReviewPageComponent,
