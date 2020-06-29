@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f595c1a-b921-43c1-8959-97473615437a" name="Default Changelist" comment="added i18n">
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.styl" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/styles/colors.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.styl" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/home-page/home-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/description.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/description.component.styl" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/styles/size.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/description.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/details/details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/details/details.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/details/details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/idea/idea.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/idea/idea.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/idea/idea.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/naming/naming.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/naming/naming.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/naming/naming.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/problems/problems.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/problems/problems.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/description/problems/problems.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/brand/brand.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/design.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/design.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/design.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/digital-design/digital-design.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/digital-design/digital-design.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/digital-design/digital-design.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/identity/identity.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/identity/identity.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/identity/identity.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/logotype/logotype.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/logotype/logotype.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/logotype/logotype.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/product-design/product-design.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/product-design/product-design.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/product-design/product-design.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/prototype/prototype.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/prototype/prototype.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/design/prototype/prototype.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/review-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/review-page.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/review-page/review-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.styl" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/main-layout/main-layout.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-item/sidebar-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-item/sidebar-item.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-item/sidebar-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-sub-item/sidebar-sub-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-sub-item/sidebar-sub-item.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar-sub-item/sidebar-sub-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/shared/components/sidebar/sidebar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles.styl" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles.styl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1drTKQRP1HmRSsNcdl8vUPWh0D1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/locale" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/locale" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f595c1a-b921-43c1-8959-97473615437a" name="Default Changelist" comment="" />
+      <created>1593182147443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593182147443</updated>
+      <workItem from="1593182148842" duration="6248000" />
+      <workItem from="1593421760784" duration="8378000" />
+    </task>
+    <task id="LOCAL-00001" summary="added i18n">
+      <created>1593194780204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593194780204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added i18n" />
+    <option name="LAST_COMMIT_MESSAGE" value="added i18n" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593424341222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593424341222" />
+    <state x="2480" y="299" key="Vcs.Push.Dialog.v2" timestamp="1593194801752">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="299" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593194801752" />
+  </component>
+</project>

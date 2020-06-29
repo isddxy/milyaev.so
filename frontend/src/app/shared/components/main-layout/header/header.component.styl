@@ -1,0 +1,30 @@
+@import "../styles/*"
+
+header
+  //position fixed
+  //display grid
+  //grid-template-columns ($size.pagePadding) auto
+  //margin 68px 0
+  //padding 0 60px
+  //width 100%
+  //box-sizing: border-box
+  //outline 1px solid green
+  .logotype
+    position fixed
+    margin ($size.mainPaddingTopBottom) 0 0 ($size.mainPaddingLeftRight)
+    display grid
+    grid-template-columns ($size.avatar) auto
+    grid-column-gap 0.6em //12px
+    align-items center
+    text-decoration none
+    img
+      height 34px
+      border-radius 99px
+    span
+      color $color.font
+      font-weight 600
+  .lang
+    position fixed
+    right 0
+    margin ($size.mainPaddingTopBottom) ($size.mainPaddingLeftRight)
+    padding-top 4px

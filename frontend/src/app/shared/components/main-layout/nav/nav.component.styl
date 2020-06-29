@@ -1,0 +1,18 @@
+@import "../styles/*"
+
+ul.main-menu
+  padding 0
+  margin 0
+  display grid
+  grid-template-columns auto auto auto auto 1fr
+  grid-column-gap 2em //40px
+  align-items center
+  height ($size.avatar)
+  z-index 6 !important
+  li
+    list-style none
+    a
+      color: ($color.font)
+      text-decoration none
+      font-size 20px
+      font-weight 500
